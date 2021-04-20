@@ -4,7 +4,7 @@
     box-sizing:border-box; 
 }
 body{
-    font-family:"Josefin+Sans",sans-serif;
+    font-family:"Josefins-Sans",sans-serif;
     color: hsl(0, 0%, 100%);
 }
 html{
@@ -207,6 +207,7 @@ font-family: Alata;
 /* styling of second row start here */
 
 /* ===========================MEDIA QUERIES START HERE===========================*/
+
 @media screen and (max-width:1024px){
     .second-img-cards{
         margin-top: -1%;
@@ -216,7 +217,7 @@ font-family: Alata;
     }
     .leaders-div{
         width: 100%;
-        bottom:-28%;
+        bottom:-29%;
         padding:10px;
     }
 
@@ -683,11 +684,15 @@ font-family: Alata;
     .founded-loopstudio-text{
         width: 95%;
         font-size: 14px;
-        margin-left: 1%;
+        margin-left: -2%;
     }
     
     .creation-text{
         font-size: 24px;
+    }
+
+    .img-title{
+        font-size: 14px;
     }
 
     .first-img-div{
