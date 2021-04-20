@@ -4,11 +4,11 @@
     box-sizing:border-box; 
 }
 body{
-    font-family:"Josefins-Sans",sans-serif;
+    font-family:"Alata",sans-serif;
     color: hsl(0, 0%, 100%);
 }
 html{
-    font-family:"Alata",sans-serif;
+    /* font-family:"Alata",sans-serif; */
     /* font-size: 62.5%; */
 }
 
