@@ -12,10 +12,6 @@ html{
     /* font-size: 62.5%; */
 }
 
-.no-scroll{
-    overflow-y: hidden;
-}
-
 .list-items,
 .list-items:link,
 .list-items:visited{
